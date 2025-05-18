@@ -1,3 +1,4 @@
 Conocimientos previos al máster:
 
 1. En 2021-2023 cursé Deserraollo de Aplicaciones Web (DAW) en la UNIR.
+2. Durante el curso di: Java, Javascript, Angular, HTML, CSS y más tecnologías que antes nunca había visto.
