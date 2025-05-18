@@ -1,0 +1,6 @@
+Conocimientos previos al máster:
+
+1. En 2021-2023 cursé Deserraollo de Aplicaciones Web (DAW) en la UNIR.
+2. Durante el curso di: Java, Javascript, Angular, GIT, HTML, CSS y más tecnologías que antes nunca había visto.
+3. En agosto de 2023 comencé a trabajar como desarrollador Web en una agencia de marketing, la cual me permitió aprender Wordpress, PHP, y practicas HTML, CSS y Javascript.
+4. Ahora en mayo he comenzado en otra empresa como desarrollador software, en el cual van a enseñar PHP, y demás herramientas que usan en el día a día.
